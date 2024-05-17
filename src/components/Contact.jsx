@@ -9,7 +9,7 @@ function Contact() {
     <div className='flex justify-center items-center mt-10 mb-10'>
             <b className='bg-red-600 text-white p-5 shadow rounded'><h3>RANDEVU</h3></b>
     </div>
-    <div className='grid xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 mt-9'>
+    <div className='grid xl:grid-cols-2 lg:grid-cols-2 md:grid-cols-2 sm:grid-cols-1 mt-9 mb-5'>
 
 
 
@@ -22,10 +22,10 @@ function Contact() {
         <div className='flex justify-center items center mt-10'>
             <div className='grid grid-rows-2 gap-10'>
                 <div>
-                    <a href="" className='flex items-center justify-center bg-yellow-500 text-white gap-5 shadow-lg p-4 rounded-2xl hover:animate-bounce hover:text-sky-600'><FaPhoneAlt /> telefon randevusu</a>
+                    <a href="" className='flex items-center justify-center bg-yellow-500 text-white gap-5 shadow-lg p-4 rounded-2xl hover:text-blue-600'><FaPhoneAlt /> telefon randevusu</a>
                 </div>
                 <div className=''>
-                    <a href="" className='flex items-center justify-center bg-green-500 text-white gap-5 shadow-lg p-4 rounded-xl hover:animate-bounce hover:text-sky-600'><FaWhatsapp /> whatsapp randevusu</a>
+                    <a href="https://wa.me/905XXXXXXXXX?text=Merhaba,%20beyturbo%hakkında%20bilgi%20almak%20istiyorum;%20" target='blank' className='flex items-center justify-center bg-green-500 text-white gap-5 shadow-lg p-4 rounded-xl hover:text-blue-600'><FaWhatsapp /> whatsapp randevusu</a>
                 </div>
             </div>
         </div>
@@ -34,6 +34,7 @@ function Contact() {
 
 
     </div>
+    <hr />
     </>
   )
 }

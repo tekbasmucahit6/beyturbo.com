@@ -8,9 +8,9 @@ function Content() {
   return (
     <>
         <div className='flex justify-center items-center mt-10'>
-            <b className='bg-red-600 text-white p-5 shadow'><h3>SUNDUĞUMUZ HİZMETLER</h3></b>
+            <b className='bg-red-600 text-white p-5 shadow rounded'><h3>SUNDUĞUMUZ HİZMETLER</h3></b>
         </div>
-        <div className='grid xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-2 md:grid-rows-2 gap-10 sm:grid-cols-1 mt-20'>
+        <div className='grid grid-cols-1 grid-rows-none xl:grid-cols-4 lg:grid-cols-4 md:grid-cols-2 gap-10 mt-10'>
            <div className='grid grid-rows-2 justify-items-center items-center'>
                 <MdSupportAgent className='text-5xl text-green-600'/>
                 <b className='hover:text-cyan-600'>teknik destek</b>
@@ -31,6 +31,7 @@ function Content() {
                 <b className='hover:text-cyan-600'>uygun maliyet</b>
            </div>
         </div>
+        <hr />
     </>
   )
 }

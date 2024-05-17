@@ -3,7 +3,7 @@ import React from 'react'
 function History() {
   return (
     <>
-    <div>
+    <div className='mt-10'>
 
 
 
@@ -13,7 +13,7 @@ function History() {
             </div>
         <div className='text-center p-5'>
 
-        <div className='flex justify-center items-center mt-10 mb-10'>
+        <div className='flex justify-center items-center mt-10 mb-10 rounded'>
             <b className='bg-red-600 text-white p-5 shadow'><h3>BEYTURBO | TARİHÇE</h3></b>
         </div>
 
@@ -24,7 +24,7 @@ function History() {
             Nulla minus laboriosam doloribus odio quae. Ipsam quasi neque necessitatibus animi, provident optio alias libero illum incidunt laborum repellendus id maiores tenetur, architecto facere consectetur dolore explicabo. Assumenda, libero consectetur.</i>
         </div>
         </div>
-
+        <hr />
     </div>
     </>
   )
