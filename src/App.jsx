@@ -3,6 +3,7 @@ import Content from "./components/Content"
 import Footer from "./components/Footer"
 import Header from "./components/Header"
 import History from "./components/History"
+import SocialContent from "./components/SocialContent"
 import Why from "./components/Why"
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <Content />
       <Contact />
       <Why />
+      <SocialContent />
       <Footer />
     </>
   )

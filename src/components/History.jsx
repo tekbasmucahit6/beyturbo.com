@@ -17,11 +17,15 @@ function History() {
             <b className='bg-red-600 text-white p-5 shadow'><h3>BEYTURBO | TARİHÇE</h3></b>
         </div>
 
-            <i>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsum dolores sed esse similique alias a, aut fugit quaerat quidem maxime ullam nostrum, laudantium provident facilis modi architecto nulla temporibus placeat.
-            Provident sed fugiat cum exercitationem voluptatibus aliquam, alias libero eos beatae eligendi, similique error fugit nisi rerum nesciunt delectus sint numquam earum, odio unde voluptate. Animi repellendus fugit veniam earum.
-            Fuga cum error ea atque minima, non ipsa ut. Commodi quos consequuntur sed cupiditate nemo eveniet eligendi fuga numquam, ullam deserunt in et. Repudiandae provident rem aspernatur sit? Consequatur, in!
-            Deleniti reiciendis earum sint accusantium, maxime vel quibusdam expedita cupiditate. Omnis aspernatur cumque voluptas incidunt laborum est, exercitationem temporibus tempore. Ducimus suscipit eos earum sint saepe excepturi ab quam praesentium.
-            Nulla minus laboriosam doloribus odio quae. Ipsam quasi neque necessitatibus animi, provident optio alias libero illum incidunt laborum repellendus id maiores tenetur, architecto facere consectetur dolore explicabo. Assumenda, libero consectetur.</i>
+            <i>
+Beyturbo olarak, araç turbo tamiri ve revizyon hizmetlerinde uzmanlaşmış bir oto sanayi firmasıyız. 6'dan fazla deneyimli çalışanımızla, yüksek kaliteli ve güvenilir hizmet sunmayı amaçlıyoruz. Turbo tamiri ve revizyonunda en kaliteli yedek parçaları kullanarak aracınızın performansını en üst düzeye çıkarıyoruz. Ayrıca, motor bakımı, fren sistemi kontrolü ve elektrik aksamı onarımları gibi araç tamir hizmetleri de sunmaktayız.
+
+Müşteri memnuniyetini her zaman ön planda tutuyor ve işimizi en iyi şekilde yaparak güveninizi kazanmayı hedefliyoruz. Sloganımız "Güç Bizde, Kontrol Sizde" ile en yüksek performans ve güvenilirliği sunmak için çalışıyoruz.
+
+Beyturbo olarak, araçlarınızın her zaman en iyi performansta olmasını sağlamak için buradayız. Hizmetlerimiz hakkında daha fazla bilgi almak için bizimle iletişime geçebilirsiniz.
+
+Saygılarımızla,
+Beyturbo Ekibi</i>
         </div>
         </div>
         <hr />
