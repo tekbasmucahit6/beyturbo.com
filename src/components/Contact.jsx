@@ -22,10 +22,10 @@ function Contact() {
         <div className='flex justify-center items center mt-10'>
             <div className='grid grid-rows-2 gap-10'>
                 <div>
-                    <a href="" className='flex items-center justify-center bg-yellow-500 text-white gap-5 shadow-lg p-4 rounded-2xl hover:text-blue-600'><FaPhoneAlt /> telefon randevusu</a>
+                    <a href="tel:551-412-38-77" className='flex items-center justify-center bg-yellow-500 text-white gap-5 shadow-lg p-4 rounded-2xl hover:text-blue-600'><FaPhoneAlt /> telefon randevusu</a>
                 </div>
                 <div className=''>
-                    <a href="https://wa.me/905XXXXXXXXX?text=Merhaba,%20beyturbo%hakkında%20bilgi%20almak%20istiyorum;%20" target='blank' className='flex items-center justify-center bg-green-500 text-white gap-5 shadow-lg p-4 rounded-xl hover:text-blue-600'><FaWhatsapp /> whatsapp randevusu</a>
+                    <a href="https://wa.me/905514123877?text=Merhaba,%20beyturbo%hakkında%20bilgi%20almak%20istiyorum;%20" target='blank' className='flex items-center justify-center bg-green-500 text-white gap-5 shadow-lg p-4 rounded-xl hover:text-blue-600'><FaWhatsapp /> whatsapp randevusu</a>
                 </div>
             </div>
         </div>
